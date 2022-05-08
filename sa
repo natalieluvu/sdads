@@ -1,3 +1,4 @@
+    local yes = game.Players.LocalPlayer
     yes.PlayerGui:FindFirstChild("Local"):Destroy()
     game.StarterGui.Extra:FindFirstChild("AntiSploitClient"):Destroy()
     game.StarterGui.Extra:FindFirstChild("AntiSploitClient2"):Destroy()
