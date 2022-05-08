@@ -1,0 +1,4 @@
+    yes.PlayerGui:FindFirstChild("Local"):Destroy()
+    game.StarterGui.Extra:FindFirstChild("AntiSploitClient"):Destroy()
+    game.StarterGui.Extra:FindFirstChild("AntiSploitClient2"):Destroy()
+    game.StarterGui.Extra:FindFirstChild("Local"):Destroy()
